@@ -1,0 +1,36 @@
+.left {
+  display: flex;
+  width: 100px;
+  justify-content: space-evenly;
+}
+.center {
+  display: flex;
+  width: 300px;
+  
+}
+.submit{
+    height: 
+    25px;
+}
+.right {
+  display: flex;
+  width: 150px;
+  justify-content: space-evenly;
+}
+nav {
+  display: flex;
+  justify-content: space-between;
+}
+.left .logo i {
+  color: red;
+}
+.picture {
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+}
+i {
+  cursor: pointer;
+}
+
+/*==================Header ends with nav tag==============*/
